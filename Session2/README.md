@@ -9,14 +9,14 @@ This guide will help you setting up your personal laptops with the tools, so tha
 
 Anaconda Distribution is the fastest and easiest way to do Python and R data science and machine learning on Linux, Windows, and Mac OS X. It has all the required tools.
 
+README: http://docs.continuum.io/anaconda/install/
+
 #### Windows
 
 > https://www.anaconda.com/download/#windows
 
 * Download *Python 3.7.1 version* (bits version depending on your system).
 * Run the downloaded executable with default options.  
-
-README: http://docs.continuum.io/anaconda/install/
 
 #### Ubuntu (Debian-based distros)
 
