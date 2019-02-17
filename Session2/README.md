@@ -30,3 +30,6 @@ README: http://docs.continuum.io/anaconda/install/
 > Enter "yes" in the above prompt.
 
 If you are stuck somewhere, then feel free to ask in [AIMLC group](https://www.facebook.com/groups/AIMLC/).
+
+First notebook (Introduction to Python, Numpy and Matplotlib) is taken from: [CS228](https://github.com/kuleshov/cs228-material/blob/master/tutorials/python/cs228-python-tutorial.ipynb)  
+Dataset used in second notebook (Introduction to Pandas) is taken from Kaggle Dataset: [Significant Earthquakes, 1965-2016](https://www.kaggle.com/usgs/earthquake-database)
